@@ -1,0 +1,53 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ab5232ac-0acb-ff5e-5d04-b7218fa4cb0f",
+      "cc74af70-20a9-249e-1b4f-0344007e839c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Infrastructure and Energy Technology Challenges",
+  "course_description": "This seminar examines efforts in developing and advanced nations and regions to create, finance, and regulate infrastructure and energy technologies from a variety of methodological and disciplinary perspectives. It is conducted with intensive in-class discussions and debates.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "11.477",
+  "primary_course_number": "11.165",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
